@@ -4,3 +4,4 @@
 local opt = vim.opt
 opt.shiftwidth = 4
 opt.swapfile = false
+opt.clipboard = "unnamedplus"
